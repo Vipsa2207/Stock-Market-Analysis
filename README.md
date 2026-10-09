@@ -2,8 +2,7 @@
 
 An analysis of six NSE-listed stocks (Bajaj Auto, Eicher Motors, Hero MotoCorp, Infosys, TCS and TVS Motors) from 1 January 2015 to 31 July 2018, built in MySQL with a Python/Streamlit dashboard. Labmentix Project 5.
 
-**Live app:** [PASTE YOUR LIVE APP LINK HERE](PASTE-YOUR-LIVE-APP-LINK-HERE)
-**Video walkthrough:** [PASTE YOUR VIDEO LINK HERE](PASTE-YOUR-VIDEO-LINK-HERE)
+**Live app:** https://stocksense-nse.streamlit.app/
 
 ## The question
 
