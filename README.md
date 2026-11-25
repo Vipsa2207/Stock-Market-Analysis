@@ -1,8 +1,17 @@
 # Stock Market Analysis in SQL
 
-An analysis of six NSE-listed stocks (Bajaj Auto, Eicher Motors, Hero MotoCorp, Infosys, TCS and TVS Motors) from 1 January 2015 to 31 July 2018, built in MySQL with a Python/Streamlit dashboard. Labmentix Project 5.
+An analysis of six NSE-listed stocks (Bajaj Auto, Eicher Motors, Hero MotoCorp, Infosys, TCS and TVS Motors) from 1 January 2015 to 31 July 2018, built in MySQL with a Python/Streamlit dashboard.
+
+Project 5 of 8 · Built during my Data Analyst Internship at Labmentix (Aug–Nov 2026).
 
 **Live app:** https://stocksense-nse.streamlit.app/
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+![StockSense NSE dashboard](docs/dashboard.png)
 
 ## The question
 
