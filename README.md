@@ -91,6 +91,10 @@ streamlit run app.py
 
 **This project is a data-analysis exercise and is not investment advice.**
 
+## How I built it
+
+I used AI to help write the SQL and Python code. I framed the business question, checked every figure against the data, and wrote the findings.
+
 ## Author
 
 Vipsa Patel, Data Analyst Intern, Labmentix
